@@ -7,4 +7,4 @@ An ionic application for consuming the api provided by an express server.
 * [API](https://futurama-episodes.herokuapp.com/api/episodes)
 
 ## Screenshot
-![Image of application](https://dl.dropboxusercontent.com/content_link/1NOCi8vDpT0BoOmRIZYKU99pc1pIaoF2g8N3dusmu2nlIA5VaJWfrPaHhDaOffqd/file)
+![Image of application](https://www.dropbox.com/s/ahlmdont629hfaz/Screenshot%202017-01-24%2020.36.08.png?raw=1)
