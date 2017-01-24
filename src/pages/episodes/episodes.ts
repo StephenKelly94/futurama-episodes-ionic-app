@@ -40,7 +40,7 @@ export class EpisodesPage {
 
   viewLink(link:string){
     this.platform.ready().then(() => {
-        open(link, "_blank", "location=no");
+        open(link, "_blank", "location=yes");
     });
   }
 
